@@ -160,14 +160,14 @@ nav ul{
      font-family: 'Poppins', sans-serif;
      padding: 2rem 0rem;
  }
- .benifits-head h3{
+/*  .benifits-head h3{
      padding: 2rem 0rem;
      font-weight: 100;
      font-size: 2rem;
      line-height: 1.5;
      background:none;
      color: White;
- }
+ } */
 
 .cards{
     width: 90%;
