@@ -16,7 +16,7 @@
 
 ## Live Demo
 Check out the live version of the website:  
-[Live Demo](https://ranjith7265.github.io/goglobe.github.io/)
+[Live Demo](https://thisisranjithk.github.io/goglobe.github.io/)
 
 ## How It Works
 
